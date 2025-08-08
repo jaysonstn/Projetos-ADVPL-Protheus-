@@ -50,7 +50,7 @@ curl_close($ch);
 $produtos = json_decode($response, true);
 ?>
 
-<!--Incluindo HTML com BootStrap -->
+<!--Incluindo HTML e BootStrap -->
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
