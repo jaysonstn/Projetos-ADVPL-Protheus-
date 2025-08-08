@@ -1,6 +1,6 @@
 # Consulta SB1 com API REST e Generic Query
 
-Projeto para consulta da tabela SB1 (Cadastro de produtos) utilizando API REST do Protheus e generic Query e PHP.
+Projeto para consulta da tabela SB1 (Cadastro de produtos) utilizando API REST do Protheus, Generic Query e PHP.
 
 ---
 
